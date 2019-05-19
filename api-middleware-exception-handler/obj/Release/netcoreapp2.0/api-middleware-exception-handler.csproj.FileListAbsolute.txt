@@ -1,0 +1,9 @@
+/Users/matiaspw/Documents/sowa/dev/code/api-middleware-exception-handler/api-middleware-exception-handler/bin/Release/netcoreapp2.0/api-middleware-exception-handler.deps.json
+/Users/matiaspw/Documents/sowa/dev/code/api-middleware-exception-handler/api-middleware-exception-handler/bin/Release/netcoreapp2.0/api-middleware-exception-handler.dll
+/Users/matiaspw/Documents/sowa/dev/code/api-middleware-exception-handler/api-middleware-exception-handler/bin/Release/netcoreapp2.0/api-middleware-exception-handler.pdb
+/Users/matiaspw/Documents/sowa/dev/code/api-middleware-exception-handler/api-middleware-exception-handler/obj/Release/netcoreapp2.0/api-middleware-exception-handler.csprojAssemblyReference.cache
+/Users/matiaspw/Documents/sowa/dev/code/api-middleware-exception-handler/api-middleware-exception-handler/obj/Release/netcoreapp2.0/api-middleware-exception-handler.csproj.CoreCompileInputs.cache
+/Users/matiaspw/Documents/sowa/dev/code/api-middleware-exception-handler/api-middleware-exception-handler/obj/Release/netcoreapp2.0/api-middleware-exception-handler.AssemblyInfoInputs.cache
+/Users/matiaspw/Documents/sowa/dev/code/api-middleware-exception-handler/api-middleware-exception-handler/obj/Release/netcoreapp2.0/api-middleware-exception-handler.AssemblyInfo.cs
+/Users/matiaspw/Documents/sowa/dev/code/api-middleware-exception-handler/api-middleware-exception-handler/obj/Release/netcoreapp2.0/api-middleware-exception-handler.dll
+/Users/matiaspw/Documents/sowa/dev/code/api-middleware-exception-handler/api-middleware-exception-handler/obj/Release/netcoreapp2.0/api-middleware-exception-handler.pdb

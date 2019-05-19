@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SowaappExceptionHandlerMiddleware.cs">
+    <Files>
+      <File FileName="SowaappExceptionHandlerMiddleware.cs" Line="18" Column="21" />
+      <File FileName="SowaappExceptionHandlerMiddlewareExtensions.cs" Line="14" Column="1" />
+      <File FileName="SowaappExceptionHandlerOptions.cs" Line="12" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

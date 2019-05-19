@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>api-middleware-exception-handler</id>
+    <version>1.0.7</version>
+    <authors>api-middleware-exception-handler</authors>
+    <owners>api-middleware-exception-handler</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.AspNetCore" version="2.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/matiaspw/Documents/sowa/dev/code/api-middleware-exception-handler/api-middleware-exception-handler/bin/Release/netcoreapp2.0/api-middleware-exception-handler.dll" target="lib/netcoreapp2.0/api-middleware-exception-handler.dll" />
+  </files>
+</package>
